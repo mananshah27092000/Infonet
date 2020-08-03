@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 
-dev.js
-node_modules/
+server/dev.js
+server/node_modules/
