@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+a{
+  color: black !important;
+}
+
+/* .container{
+  /* background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Finteng-storage.s3.amazonaws.com%2Fimg%2Fiea%2FlV6D1nVrwx%2Fsizes%2Funiverse-exp_resize_md.png&imgrefurl=https%3A%2F%2Finterestingengineering.com%2Fwhat-do-we-really-know-about-the-universe&tbnid=dwi6gNLVDYgT1M&vet=12ahUKEwjelr-47PzqAhUL13MBHYrzCVAQMygHegUIARDgAQ..i&docid=EbWgFFH9HB39QM&w=744&h=417&q=universe&client=ubuntu&ved=2ahUKEwjelr-47PzqAhUL13MBHYrzCVAQMygHegUIARDgAQ"); */
+  /* background-image: url(./space3.jpeg); */
+  /* background-size: 1000px; */
+
+  /* height: 100%;  */
+
+  /* Center and scale the image nicely */
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+/* } */ 
+/* .extended-change{
+  height: fit-content!important;
+}
+.wrapper-change{
+  height: 75px!important;
+} */
+
+.brand-logo,h2{
+  font-family: 'Grand Hotel', cursive;
+}
+
+.logo-change{
+  margin: auto !important;
+  width: 150px;
+}
+
+.logo-change1{
+  font-size: 0.5in !important;
+}
+
+
+.mycard{
+  margin: 30px;
+}
+
+
+.card-flip{
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid rgb(7, 23, 253)!important;
+  box-shadow: 0 1px 0 0 rgb(7, 23, 253)!important;
+}
+.input-field input[type=password]:focus {
+  border-bottom: 1px solid rgb(7, 23, 253)!important;
+  box-shadow: 0 1px 0 0 rgb(7, 23, 253)!important;
+}
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.item{
+  width: 30%;
+
+}
+
+
+.home-card{
+  max-width: 500px;
+  height: max-content;
+  margin: 30px auto;
+}
+.material-icons:hover{
+  cursor : pointer;
+}
+/* #toast-container{
+  
+} */
